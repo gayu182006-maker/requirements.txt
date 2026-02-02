@@ -1,0 +1,14 @@
+{
+  "Google": {
+    "Software Engineer": ["Python", "Data Structures", "Algorithms", "OOP"],
+    "Data Analyst": ["SQL", "Python", "Excel", "Data Visualization"]
+  },
+  "Microsoft": {
+    "Software Engineer": ["C#", "Algorithms", "OOP", "Azure"],
+    "Data Scientist": ["Python", "Machine Learning", "SQL", "Statistics"]
+  },
+  "Amazon": {
+    "Software Developer": ["Java", "Algorithms", "AWS", "OOP"],
+    "Data Engineer": ["Python", "SQL", "ETL", "Big Data"]
+  }
+}
